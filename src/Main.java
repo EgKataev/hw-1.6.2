@@ -23,6 +23,6 @@ public class Main {
             number= number*2;
             System.out.print(number + " ");
         }
-        System.out.println();
+        System.out.println( );
     }
 }
